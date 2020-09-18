@@ -1,0 +1,100 @@
+------------------------------
+running test on cuda:0
+#test image: 100
+average time: 10.1909ms
+average FPS: 98.1265595822
+fastest time: 8.9839ms
+fastest FPS: 111.310846315
+slowest time: 16.0401ms
+slowest FPS: 62.3438024882
+------------------------------
+------------------------------
+running test on cuda:0
+#test image: 100
+average time: 9.9072ms
+average FPS: 100.93710202
+fastest time: 8.5528ms
+fastest FPS: 116.920915452
+slowest time: 21.5490ms
+slowest FPS: 46.4058949139
+------------------------------
+------------------------------
+running test on cuda:0
+#test image: 100
+average time: 10.3153ms
+average FPS: 96.9435637051
+fastest time: 8.4989ms
+fastest FPS: 117.662187561
+slowest time: 18.2049ms
+slowest FPS: 54.9301832183
+------------------------------
+------------------------------
+running test on cuda:0
+#test image: 100
+average time: 10.6113ms
+average FPS: 94.2395794622
+fastest time: 8.1758ms
+fastest FPS: 122.311442902
+slowest time: 19.6700ms
+slowest FPS: 50.8388160287
+------------------------------
+------------------------------
+running test on cuda:0
+#test image: 100
+average time: 10.3908ms
+average FPS: 96.2390115589
+fastest time: 8.3070ms
+fastest FPS: 120.380689972
+slowest time: 15.3370ms
+slowest FPS: 65.2018405671
+------------------------------
+------------------------------
+running test on cuda:0
+#test image: 100
+average time: 10.1355ms
+average FPS: 98.6627392616
+fastest time: 8.9409ms
+fastest FPS: 111.84512413
+slowest time: 12.3770ms
+slowest FPS: 80.7948683374
+------------------------------
+------------------------------
+running test on cuda:0
+#test image: 100
+average time: 9.2701ms
+average FPS: 107.873333891
+fastest time: 8.3749ms
+fastest FPS: 119.403991232
+slowest time: 14.2109ms
+slowest FPS: 70.368324805
+------------------------------
+------------------------------
+running test on cuda:0
+#test image: 100
+average time: 9.0888ms
+average FPS: 110.026017142
+fastest time: 8.6660ms
+fastest FPS: 115.392978981
+slowest time: 12.7399ms
+slowest FPS: 78.4935716291
+------------------------------
+------------------------------
+running test on cuda:0
+#test image: 100
+average time: 10.6183ms
+average FPS: 94.1771781272
+fastest time: 8.6131ms
+fastest FPS: 116.102087139
+slowest time: 17.5040ms
+slowest FPS: 57.1298745522
+------------------------------
+------------------------------
+running test on cuda:0
+#test image: 100
+average time: 10.5646ms
+average FPS: 94.6553184806
+fastest time: 8.6811ms
+fastest FPS: 115.1933207
+slowest time: 16.0310ms
+slowest FPS: 62.3790359761
+------------------------------

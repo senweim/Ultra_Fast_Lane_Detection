@@ -1,0 +1,750 @@
+****epoch 1/50****
+step 00050, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9285, IoU = 0.8918 --- 36.16 ms/batch
+step 00100, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9281, IoU = 0.8921 --- 33.89 ms/batch
+step 00150, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9280, IoU = 0.8917 --- 33.85 ms/batch
+step 00200, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9282, IoU = 0.8921 --- 33.48 ms/batch
+------------------------------
+train summary: 
+Total loss = 13.1004, loss_cls = 10.8720, loss_seg = 2.2285, accuracy = 0.9282, IoU = 0.8920
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9073, IoU = 0.8585
+------------------------------
+
+****epoch 2/50****
+step 00050, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9274, IoU = 0.8936 --- 39.63 ms/batch
+step 00100, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9280, IoU = 0.8934 --- 35.93 ms/batch
+step 00150, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9282, IoU = 0.8927 --- 35.33 ms/batch
+step 00200, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9280, IoU = 0.8921 --- 34.46 ms/batch
+------------------------------
+train summary: 
+Total loss = 13.1646, loss_cls = 10.9377, loss_seg = 2.2268, accuracy = 0.9280, IoU = 0.8921
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9070, IoU = 0.8586
+------------------------------
+
+****epoch 3/50****
+step 00050, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9277, IoU = 0.8924 --- 36.06 ms/batch
+step 00100, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9280, IoU = 0.8925 --- 34.24 ms/batch
+step 00150, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9280, IoU = 0.8921 --- 34.33 ms/batch
+step 00200, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9280, IoU = 0.8917 --- 33.73 ms/batch
+------------------------------
+train summary: 
+Total loss = 13.0812, loss_cls = 10.8647, loss_seg = 2.2165, accuracy = 0.9280, IoU = 0.8917
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9069, IoU = 0.8583
+------------------------------
+
+****epoch 4/50****
+step 00050, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9279, IoU = 0.8903 --- 36.50 ms/batch
+step 00100, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9282, IoU = 0.8916 --- 34.35 ms/batch
+step 00150, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9284, IoU = 0.8921 --- 33.97 ms/batch
+step 00200, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9283, IoU = 0.8924 --- 33.46 ms/batch
+------------------------------
+train summary: 
+Total loss = 13.0698, loss_cls = 10.8448, loss_seg = 2.2250, accuracy = 0.9283, IoU = 0.8924
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9073, IoU = 0.8589
+------------------------------
+
+****epoch 5/50****
+step 00050, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9273, IoU = 0.8919 --- 36.01 ms/batch
+step 00100, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9276, IoU = 0.8920 --- 34.11 ms/batch
+step 00150, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9278, IoU = 0.8925 --- 33.86 ms/batch
+step 00200, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9279, IoU = 0.8923 --- 33.36 ms/batch
+------------------------------
+train summary: 
+Total loss = 13.0558, loss_cls = 10.8384, loss_seg = 2.2174, accuracy = 0.9279, IoU = 0.8923
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9069, IoU = 0.8587
+------------------------------
+
+****epoch 6/50****
+step 00050, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9281, IoU = 0.8920 --- 36.16 ms/batch
+step 00100, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9284, IoU = 0.8923 --- 33.72 ms/batch
+step 00150, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9283, IoU = 0.8923 --- 33.40 ms/batch
+step 00200, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9282, IoU = 0.8919 --- 33.22 ms/batch
+------------------------------
+train summary: 
+Total loss = 13.0805, loss_cls = 10.8487, loss_seg = 2.2319, accuracy = 0.9281, IoU = 0.8919
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9072, IoU = 0.8585
+------------------------------
+
+****epoch 7/50****
+step 00050, loss = 0.0040, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9287, IoU = 0.8930 --- 36.02 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9284, IoU = 0.8935 --- 33.89 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9289, IoU = 0.8932 --- 33.98 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9289, IoU = 0.8932 --- 33.39 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.9307, loss_cls = 10.7313, loss_seg = 2.1994, accuracy = 0.9288, IoU = 0.8932
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9077, IoU = 0.8595
+------------------------------
+
+****epoch 8/50****
+step 00050, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9273, IoU = 0.8923 --- 36.19 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9285, IoU = 0.8930 --- 34.28 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9284, IoU = 0.8932 --- 33.92 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9282, IoU = 0.8929 --- 33.44 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.9980, loss_cls = 10.7913, loss_seg = 2.2067, accuracy = 0.9282, IoU = 0.8929
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9072, IoU = 0.8594
+------------------------------
+
+****epoch 9/50****
+step 00050, loss = 0.0040, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9281, IoU = 0.8933 --- 36.28 ms/batch
+step 00100, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9280, IoU = 0.8926 --- 34.45 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9283, IoU = 0.8927 --- 33.96 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9285, IoU = 0.8933 --- 33.28 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.9378, loss_cls = 10.7401, loss_seg = 2.1977, accuracy = 0.9285, IoU = 0.8932
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9075, IoU = 0.8596
+------------------------------
+
+****epoch 10/50****
+step 00050, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9281, IoU = 0.8918 --- 32.73 ms/batch
+step 00100, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9285, IoU = 0.8927 --- 30.86 ms/batch
+step 00150, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9285, IoU = 0.8926 --- 30.58 ms/batch
+step 00200, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9284, IoU = 0.8925 --- 30.13 ms/batch
+------------------------------
+train summary: 
+Total loss = 13.0373, loss_cls = 10.8177, loss_seg = 2.2196, accuracy = 0.9284, IoU = 0.8925
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9073, IoU = 0.8590
+------------------------------
+
+****epoch 11/50****
+step 00050, loss = 0.0040, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9286, IoU = 0.8944 --- 33.25 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9285, IoU = 0.8947 --- 31.32 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9282, IoU = 0.8942 --- 30.97 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9281, IoU = 0.8938 --- 30.44 ms/batch
+------------------------------
+train summary: 
+Total loss = 13.0031, loss_cls = 10.8012, loss_seg = 2.2019, accuracy = 0.9281, IoU = 0.8937
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9071, IoU = 0.8601
+------------------------------
+
+****epoch 12/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9286, IoU = 0.8928 --- 33.57 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9284, IoU = 0.8935 --- 31.33 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9282, IoU = 0.8937 --- 30.91 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9287, IoU = 0.8936 --- 30.17 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.9033, loss_cls = 10.7094, loss_seg = 2.1938, accuracy = 0.9286, IoU = 0.8936
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9076, IoU = 0.8600
+------------------------------
+
+****epoch 13/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9295, IoU = 0.8925 --- 32.33 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9289, IoU = 0.8931 --- 31.10 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9288, IoU = 0.8931 --- 30.26 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9286, IoU = 0.8930 --- 30.85 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.9276, loss_cls = 10.7214, loss_seg = 2.2061, accuracy = 0.9286, IoU = 0.8930
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9075, IoU = 0.8594
+------------------------------
+
+****epoch 14/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9295, IoU = 0.8951 --- 36.51 ms/batch
+step 00100, loss = 0.0039, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9291, IoU = 0.8945 --- 34.18 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9284, IoU = 0.8939 --- 33.97 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9282, IoU = 0.8934 --- 33.62 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.8914, loss_cls = 10.6952, loss_seg = 2.1962, accuracy = 0.9282, IoU = 0.8933
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9072, IoU = 0.8598
+------------------------------
+
+****epoch 15/50****
+step 00050, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9282, IoU = 0.8934 --- 36.08 ms/batch
+step 00100, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9276, IoU = 0.8923 --- 34.06 ms/batch
+step 00150, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9281, IoU = 0.8925 --- 33.72 ms/batch
+step 00200, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9278, IoU = 0.8926 --- 33.52 ms/batch
+------------------------------
+train summary: 
+Total loss = 13.0622, loss_cls = 10.8399, loss_seg = 2.2223, accuracy = 0.9278, IoU = 0.8925
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9068, IoU = 0.8590
+------------------------------
+
+****epoch 16/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9298, IoU = 0.8931 --- 35.79 ms/batch
+step 00100, loss = 0.0039, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9301, IoU = 0.8943 --- 33.96 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9291, IoU = 0.8936 --- 33.78 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9289, IoU = 0.8933 --- 33.36 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.8805, loss_cls = 10.6784, loss_seg = 2.2021, accuracy = 0.9289, IoU = 0.8934
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9078, IoU = 0.8597
+------------------------------
+
+****epoch 17/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9292, IoU = 0.8938 --- 35.30 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9289, IoU = 0.8926 --- 34.01 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9288, IoU = 0.8931 --- 33.77 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9291, IoU = 0.8936 --- 33.35 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.8646, loss_cls = 10.6665, loss_seg = 2.1981, accuracy = 0.9290, IoU = 0.8936
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9079, IoU = 0.8599
+------------------------------
+
+****epoch 18/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9291, IoU = 0.8943 --- 35.82 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9288, IoU = 0.8945 --- 34.59 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9287, IoU = 0.8936 --- 33.86 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9285, IoU = 0.8933 --- 33.69 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.9255, loss_cls = 10.7213, loss_seg = 2.2042, accuracy = 0.9284, IoU = 0.8933
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9074, IoU = 0.8597
+------------------------------
+
+****epoch 19/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9284, IoU = 0.8929 --- 38.22 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9286, IoU = 0.8932 --- 35.50 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9287, IoU = 0.8931 --- 35.14 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9287, IoU = 0.8930 --- 34.38 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.9588, loss_cls = 10.7523, loss_seg = 2.2065, accuracy = 0.9287, IoU = 0.8930
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9076, IoU = 0.8593
+------------------------------
+
+****epoch 20/50****
+step 00050, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9274, IoU = 0.8919 --- 36.65 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9283, IoU = 0.8926 --- 34.68 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9284, IoU = 0.8929 --- 34.14 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9284, IoU = 0.8929 --- 33.70 ms/batch
+------------------------------
+train summary: 
+Total loss = 13.0022, loss_cls = 10.7930, loss_seg = 2.2092, accuracy = 0.9284, IoU = 0.8929
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9073, IoU = 0.8594
+------------------------------
+
+****epoch 21/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9296, IoU = 0.8934 --- 36.37 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9291, IoU = 0.8934 --- 35.17 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9289, IoU = 0.8941 --- 34.53 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9290, IoU = 0.8937 --- 34.09 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.8238, loss_cls = 10.6329, loss_seg = 2.1909, accuracy = 0.9290, IoU = 0.8937
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9079, IoU = 0.8600
+------------------------------
+
+****epoch 22/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9293, IoU = 0.8932 --- 36.26 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9288, IoU = 0.8933 --- 34.48 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9289, IoU = 0.8937 --- 34.36 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9289, IoU = 0.8937 --- 33.91 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.9047, loss_cls = 10.7104, loss_seg = 2.1944, accuracy = 0.9290, IoU = 0.8937
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9079, IoU = 0.8600
+------------------------------
+
+****epoch 23/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9285, IoU = 0.8943 --- 36.50 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9288, IoU = 0.8935 --- 34.35 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9289, IoU = 0.8940 --- 34.03 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9285, IoU = 0.8933 --- 33.52 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.9212, loss_cls = 10.7238, loss_seg = 2.1974, accuracy = 0.9285, IoU = 0.8933
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9074, IoU = 0.8596
+------------------------------
+
+****epoch 24/50****
+step 00050, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9278, IoU = 0.8931 --- 36.45 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9285, IoU = 0.8931 --- 34.98 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9286, IoU = 0.8930 --- 34.93 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9286, IoU = 0.8932 --- 34.30 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.9362, loss_cls = 10.7333, loss_seg = 2.2029, accuracy = 0.9286, IoU = 0.8932
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9075, IoU = 0.8596
+------------------------------
+
+****epoch 25/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9286, IoU = 0.8939 --- 36.57 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9289, IoU = 0.8943 --- 33.57 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9290, IoU = 0.8940 --- 32.93 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9288, IoU = 0.8938 --- 32.24 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.8793, loss_cls = 10.6970, loss_seg = 2.1823, accuracy = 0.9288, IoU = 0.8939
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9077, IoU = 0.8602
+------------------------------
+
+****epoch 26/50****
+step 00050, loss = 0.0039, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9302, IoU = 0.8938 --- 32.49 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9291, IoU = 0.8927 --- 30.49 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9291, IoU = 0.8927 --- 30.27 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9288, IoU = 0.8926 --- 29.99 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.8972, loss_cls = 10.6899, loss_seg = 2.2073, accuracy = 0.9288, IoU = 0.8926
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9077, IoU = 0.8591
+------------------------------
+
+****epoch 27/50****
+step 00050, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9276, IoU = 0.8927 --- 32.25 ms/batch
+step 00100, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9280, IoU = 0.8926 --- 31.85 ms/batch
+step 00150, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9283, IoU = 0.8924 --- 31.42 ms/batch
+step 00200, loss = 0.0041, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9285, IoU = 0.8927 --- 31.53 ms/batch
+------------------------------
+train summary: 
+Total loss = 13.0419, loss_cls = 10.8292, loss_seg = 2.2128, accuracy = 0.9285, IoU = 0.8927
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9073, IoU = 0.8591
+------------------------------
+
+****epoch 28/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9291, IoU = 0.8929 --- 32.12 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9297, IoU = 0.8937 --- 30.60 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9293, IoU = 0.8935 --- 30.31 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9289, IoU = 0.8933 --- 29.92 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.8481, loss_cls = 10.6541, loss_seg = 2.1940, accuracy = 0.9289, IoU = 0.8934
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9078, IoU = 0.8597
+------------------------------
+
+****epoch 29/50****
+step 00050, loss = 0.0040, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9274, IoU = 0.8935 --- 32.14 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9281, IoU = 0.8937 --- 30.59 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9285, IoU = 0.8936 --- 30.49 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9288, IoU = 0.8935 --- 29.96 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.9624, loss_cls = 10.7571, loss_seg = 2.2053, accuracy = 0.9288, IoU = 0.8935
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9077, IoU = 0.8599
+------------------------------
+
+****epoch 30/50****
+step 00050, loss = 0.0040, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9278, IoU = 0.8934 --- 34.34 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9282, IoU = 0.8922 --- 32.29 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9285, IoU = 0.8929 --- 32.05 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9289, IoU = 0.8931 --- 31.94 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.9052, loss_cls = 10.7059, loss_seg = 2.1993, accuracy = 0.9289, IoU = 0.8930
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9078, IoU = 0.8595
+------------------------------
+
+****epoch 31/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9299, IoU = 0.8936 --- 35.53 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9293, IoU = 0.8935 --- 33.92 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9297, IoU = 0.8939 --- 33.97 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9293, IoU = 0.8938 --- 33.65 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.8395, loss_cls = 10.6559, loss_seg = 2.1836, accuracy = 0.9293, IoU = 0.8938
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9081, IoU = 0.8601
+------------------------------
+
+****epoch 32/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9296, IoU = 0.8942 --- 36.27 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9296, IoU = 0.8936 --- 34.24 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9295, IoU = 0.8933 --- 33.90 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9297, IoU = 0.8933 --- 33.34 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.8045, loss_cls = 10.6153, loss_seg = 2.1892, accuracy = 0.9297, IoU = 0.8933
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9085, IoU = 0.8596
+------------------------------
+
+****epoch 33/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9289, IoU = 0.8930 --- 36.74 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9293, IoU = 0.8930 --- 34.54 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9296, IoU = 0.8934 --- 34.35 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9294, IoU = 0.8932 --- 33.70 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.7734, loss_cls = 10.5855, loss_seg = 2.1878, accuracy = 0.9294, IoU = 0.8933
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9082, IoU = 0.8596
+------------------------------
+
+****epoch 34/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9301, IoU = 0.8924 --- 36.16 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9297, IoU = 0.8927 --- 34.59 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9297, IoU = 0.8932 --- 34.41 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9296, IoU = 0.8929 --- 33.88 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.7469, loss_cls = 10.5473, loss_seg = 2.1996, accuracy = 0.9296, IoU = 0.8930
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9084, IoU = 0.8594
+------------------------------
+
+****epoch 35/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9282, IoU = 0.8919 --- 36.33 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9287, IoU = 0.8925 --- 34.14 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9289, IoU = 0.8932 --- 33.74 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9289, IoU = 0.8934 --- 33.28 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.8822, loss_cls = 10.6740, loss_seg = 2.2082, accuracy = 0.9289, IoU = 0.8933
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9078, IoU = 0.8598
+------------------------------
+
+****epoch 36/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9290, IoU = 0.8920 --- 35.79 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9288, IoU = 0.8919 --- 35.38 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9287, IoU = 0.8921 --- 34.89 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9287, IoU = 0.8924 --- 34.40 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.9549, loss_cls = 10.7341, loss_seg = 2.2207, accuracy = 0.9287, IoU = 0.8923
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9076, IoU = 0.8588
+------------------------------
+
+****epoch 37/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9290, IoU = 0.8946 --- 36.11 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9290, IoU = 0.8940 --- 34.30 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9290, IoU = 0.8933 --- 34.14 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9292, IoU = 0.8937 --- 33.80 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.8455, loss_cls = 10.6484, loss_seg = 2.1971, accuracy = 0.9292, IoU = 0.8937
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9081, IoU = 0.8599
+------------------------------
+
+****epoch 38/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9298, IoU = 0.8944 --- 36.55 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9287, IoU = 0.8934 --- 34.43 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9289, IoU = 0.8935 --- 34.00 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9287, IoU = 0.8937 --- 33.58 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.9310, loss_cls = 10.7307, loss_seg = 2.2003, accuracy = 0.9287, IoU = 0.8937
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9077, IoU = 0.8601
+------------------------------
+
+****epoch 39/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9283, IoU = 0.8941 --- 36.05 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9286, IoU = 0.8932 --- 33.95 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0034, loss_seg = 0.0007, accuracy = 0.9286, IoU = 0.8931 --- 33.44 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9285, IoU = 0.8934 --- 33.09 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.9542, loss_cls = 10.7572, loss_seg = 2.1970, accuracy = 0.9286, IoU = 0.8935
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9075, IoU = 0.8597
+------------------------------
+
+****epoch 40/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9280, IoU = 0.8941 --- 35.66 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9285, IoU = 0.8936 --- 34.32 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9284, IoU = 0.8935 --- 33.49 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9292, IoU = 0.8935 --- 33.54 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.8087, loss_cls = 10.6187, loss_seg = 2.1900, accuracy = 0.9293, IoU = 0.8935
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9080, IoU = 0.8598
+------------------------------
+
+****epoch 41/50****
+step 00050, loss = 0.0039, loss_cls = 0.0032, loss_seg = 0.0007, accuracy = 0.9300, IoU = 0.8943 --- 36.43 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9290, IoU = 0.8948 --- 35.07 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9291, IoU = 0.8945 --- 34.40 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9290, IoU = 0.8946 --- 33.95 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.7694, loss_cls = 10.5956, loss_seg = 2.1739, accuracy = 0.9290, IoU = 0.8946
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9079, IoU = 0.8608
+------------------------------
+
+****epoch 42/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9287, IoU = 0.8934 --- 36.03 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9295, IoU = 0.8941 --- 34.19 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9290, IoU = 0.8936 --- 34.34 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9290, IoU = 0.8935 --- 33.95 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.9051, loss_cls = 10.7042, loss_seg = 2.2010, accuracy = 0.9290, IoU = 0.8935
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9079, IoU = 0.8599
+------------------------------
+
+****epoch 43/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9281, IoU = 0.8944 --- 36.76 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9286, IoU = 0.8936 --- 34.85 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9288, IoU = 0.8935 --- 34.50 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9289, IoU = 0.8936 --- 33.93 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.8388, loss_cls = 10.6483, loss_seg = 2.1905, accuracy = 0.9289, IoU = 0.8935
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9079, IoU = 0.8598
+------------------------------
+
+****epoch 44/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9297, IoU = 0.8944 --- 36.41 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9287, IoU = 0.8929 --- 35.14 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9291, IoU = 0.8938 --- 35.58 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9290, IoU = 0.8937 --- 34.82 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.8238, loss_cls = 10.6316, loss_seg = 2.1922, accuracy = 0.9290, IoU = 0.8937
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9079, IoU = 0.8600
+------------------------------
+
+****epoch 45/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9290, IoU = 0.8953 --- 35.45 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9297, IoU = 0.8941 --- 34.35 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9295, IoU = 0.8942 --- 33.99 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9294, IoU = 0.8939 --- 33.77 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.7233, loss_cls = 10.5476, loss_seg = 2.1757, accuracy = 0.9294, IoU = 0.8939
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9082, IoU = 0.8601
+------------------------------
+
+****epoch 46/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9284, IoU = 0.8951 --- 36.33 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9292, IoU = 0.8949 --- 34.73 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9291, IoU = 0.8944 --- 34.58 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9293, IoU = 0.8941 --- 34.83 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.7934, loss_cls = 10.6089, loss_seg = 2.1845, accuracy = 0.9293, IoU = 0.8941
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9081, IoU = 0.8602
+------------------------------
+
+****epoch 47/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9289, IoU = 0.8913 --- 37.97 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9294, IoU = 0.8927 --- 35.08 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9291, IoU = 0.8931 --- 34.64 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9293, IoU = 0.8930 --- 34.22 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.8322, loss_cls = 10.6220, loss_seg = 2.2102, accuracy = 0.9293, IoU = 0.8930
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9081, IoU = 0.8593
+------------------------------
+
+****epoch 48/50****
+step 00050, loss = 0.0039, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9289, IoU = 0.8935 --- 36.77 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9283, IoU = 0.8941 --- 33.77 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9285, IoU = 0.8934 --- 33.24 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9287, IoU = 0.8938 --- 32.40 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.8867, loss_cls = 10.6932, loss_seg = 2.1935, accuracy = 0.9287, IoU = 0.8938
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9076, IoU = 0.8600
+------------------------------
+
+****epoch 49/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9288, IoU = 0.8938 --- 33.31 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9294, IoU = 0.8942 --- 32.04 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9294, IoU = 0.8936 --- 32.36 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9292, IoU = 0.8930 --- 32.52 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.8244, loss_cls = 10.6208, loss_seg = 2.2036, accuracy = 0.9293, IoU = 0.8930
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9081, IoU = 0.8593
+------------------------------
+
+****epoch 50/50****
+step 00050, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9286, IoU = 0.8933 --- 35.04 ms/batch
+step 00100, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9295, IoU = 0.8923 --- 33.40 ms/batch
+step 00150, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9296, IoU = 0.8927 --- 32.97 ms/batch
+step 00200, loss = 0.0040, loss_cls = 0.0033, loss_seg = 0.0007, accuracy = 0.9296, IoU = 0.8933 --- 32.32 ms/batch
+------------------------------
+train summary: 
+Total loss = 12.7496, loss_cls = 10.5604, loss_seg = 2.1891, accuracy = 0.9296, IoU = 0.8933
+------------------------------
+
+------------------------------
+validation summary: 
+accuracy = 0.9084, IoU = 0.8596
+------------------------------
+
