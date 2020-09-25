@@ -27,12 +27,10 @@ def visualization(model, dataloader, save_dir, row_anchor, num_grids):
     
     T = DeNormalize((0.485, 0.456, 0.406), (0.229, 0.224, 0.225))
     lane_color = [(60, 76, 231), (18, 156, 243), (113, 204, 46), (219, 152, 52)]
-    num_anchors = len(row_anchor)
     scale = int(800.0 / num_grids)
     anchor_width = row_anchor[1] - row_anchor[0]
-    
-    
-    
+    video_out = cv2.VideoWriter(os.path.join(save_dir, 'demo.avi'), fourcc=cv2.VideoWriter_fourcc(*'MJPG'), fps=30.0, frameSize=(800, 288))
+
     for step, batch in enumerate(dataloader):
         inputs = batch['input_tensor'].to(device)
         image_names = batch['image_name']
@@ -56,10 +54,9 @@ def visualization(model, dataloader, save_dir, row_anchor, num_grids):
                 anchor_valid = anchor_valid.repeat(anchor_width) + np.tile(np.arange(0, anchor_width), len(anchor_valid))
                 anchor_valid = anchor_valid.repeat(scale)
                 img[anchor_valid, lane_valid] = lane_color[idx]
-            
-            cv2.imwrite(img_dir, img)
-            cv2.imshow('result', img)
-            cv2.waitKey(1)
+
+            video_out.write(img)
+    video_out.release()
         
 
 
